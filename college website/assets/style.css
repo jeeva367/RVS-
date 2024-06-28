@@ -1,0 +1,84 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.header{
+    background-color: maroon;
+    padding-bottom: -10px;
+}
+.logo{
+    padding: 19px 30px;
+    position: relative;
+    left: 15%;
+    
+}
+
+.title
+{
+    position: relative;
+    left: 24%;
+    top: -90px;
+    color: aliceblue;
+}
+
+ h1 {
+       position: relative;
+       left: 24%;
+       top: -100px;
+       color: aliceblue;
+       font-family:forte;
+}
+
+.form-box{
+    width: 380px;
+    height: 300px;
+    position: relative;
+    margin:2% auto;
+    padding: 10px;
+    background: white;
+    border: solid;
+    border-color: black;
+    border-radius: 5px;
+}
+
+.button-box{
+    width: 220px;
+    margin: 35px auto;
+    position: relative;
+}
+
+
+
+.input-group-login{
+    top: 150px;
+    position: absolute;
+    width: 280px;
+}
+
+.input-field{
+    width: 100%;
+    padding: 10px 0;
+    margin: 10px 5px;
+    background: transparent;
+    position: relative;
+    top: -25px;
+    
+}
+.submit-btn{
+    position: relative;
+    left: 8px;
+    font-size: 15px;
+    color:rgb(141, 78, 78);
+    padding: 8px;
+    cursor: pointer;
+    border: none;
+    background-color:rgb(247, 247, 0);
+}
+#login{
+    left: 50px;
+}  
+a{
+    text-decoration: none;
+    color: maroon;
+} 
